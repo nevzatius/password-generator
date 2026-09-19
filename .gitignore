@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+
+# Runtime data — created on first use, never commit real credentials/vault
+auth.json
+vault.dat
